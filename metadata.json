@@ -1,0 +1,59 @@
+{
+  "siteId": "cleaning-tool-review",
+  "generatedAt": "2026-06-04T11:36:04.510595",
+  "categories": [
+    "beginner-cleaning-tool-review",
+    "advanced-cleaning-tool-review",
+    "tips-cleaning-tool-review",
+    "history-cleaning-tool-review",
+    "trending-cleaning-tool-review",
+    "tutorials-cleaning-tool-review"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-cleaning-tool-review",
+      "category_name": "Beginner Cleaning Tool Review"
+    },
+    {
+      "category_slug": "advanced-cleaning-tool-review",
+      "category_name": "Advanced Cleaning Tool Review"
+    },
+    {
+      "category_slug": "tips-cleaning-tool-review",
+      "category_name": "Cleaning Tool Review Tips"
+    },
+    {
+      "category_slug": "history-cleaning-tool-review",
+      "category_name": "Cleaning Tool Review History"
+    },
+    {
+      "category_slug": "trending-cleaning-tool-review",
+      "category_name": "Trending Cleaning Tool Review"
+    },
+    {
+      "category_slug": "tutorials-cleaning-tool-review",
+      "category_name": "Cleaning Tool Review Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "cleaning-tool-review",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Cleaning Tool Review Central",
+    "articles_per_row": 1
+  }
+}

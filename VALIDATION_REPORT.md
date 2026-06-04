@@ -1,0 +1,88 @@
+# Validation Report - cleaning-tool-review
+
+Generated: 2026-06-04T11:36:04.510337
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Cleaning Tool Review
+- ✓ Article word count OK: Beginner Cleaning Tool Review: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Cleaning Tool Review
+- ✓ Article word count OK: Beginner Cleaning Tool Review Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Cleaning Tool Review
+- ✓ Article word count OK: Beginner Cleaning Tool Review in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Cleaning Tool Review
+- ✓ Article word count OK: Common Mistakes in Beginner Cleaning Tool Review
+- ✓ Article word count OK: Beginner Cleaning Tool Review for Beginners
+- ✓ Article word count OK: Advanced Beginner Cleaning Tool Review Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Cleaning Tool Review
+- ✓ Article word count OK: Advanced Cleaning Tool Review: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Cleaning Tool Review
+- ✓ Article word count OK: Advanced Cleaning Tool Review Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Cleaning Tool Review
+- ✓ Article word count OK: Advanced Cleaning Tool Review in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Cleaning Tool Review
+- ✓ Article word count OK: Common Mistakes in Advanced Cleaning Tool Review
+- ✓ Article word count OK: Advanced Cleaning Tool Review for Beginners
+- ✓ Article word count OK: Advanced Advanced Cleaning Tool Review Techniques
+- ✓ Article word count OK: The Ultimate Guide to Cleaning Tool Review Tips
+- ✓ Article word count OK: Cleaning Tool Review Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Cleaning Tool Review Tips
+- ✓ Article word count OK: Cleaning Tool Review Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Cleaning Tool Review Tips
+- ✓ Article word count OK: Cleaning Tool Review Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Cleaning Tool Review Tips
+- ✓ Article word count OK: Common Mistakes in Cleaning Tool Review Tips
+- ✓ Article word count OK: Cleaning Tool Review Tips for Beginners
+- ✓ Article word count OK: Advanced Cleaning Tool Review Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Cleaning Tool Review History
+- ✓ Article word count OK: Cleaning Tool Review History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Cleaning Tool Review History
+- ✓ Article word count OK: Cleaning Tool Review History Tips and Best Practices
+- ✓ Article word count OK: The History of Cleaning Tool Review History
+- ✓ Article word count OK: Cleaning Tool Review History in 2026: Current Trends
+- ✓ Article word count OK: Future of Cleaning Tool Review History
+- ✓ Article word count OK: Common Mistakes in Cleaning Tool Review History
+- ✓ Article word count OK: Cleaning Tool Review History for Beginners
+- ✓ Article word count OK: Advanced Cleaning Tool Review History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Cleaning Tool Review
+- ✓ Article word count OK: Trending Cleaning Tool Review: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Cleaning Tool Review
+- ✓ Article word count OK: Trending Cleaning Tool Review Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Cleaning Tool Review
+- ✓ Article word count OK: Trending Cleaning Tool Review in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Cleaning Tool Review
+- ✓ Article word count OK: Common Mistakes in Trending Cleaning Tool Review
+- ✓ Article word count OK: Trending Cleaning Tool Review for Beginners
+- ✓ Article word count OK: Advanced Trending Cleaning Tool Review Techniques
+- ✓ Article word count OK: The Ultimate Guide to Cleaning Tool Review Tutorials
+- ✓ Article word count OK: Cleaning Tool Review Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Cleaning Tool Review Tutorials
+- ✓ Article word count OK: Cleaning Tool Review Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Cleaning Tool Review Tutorials
+- ✓ Article word count OK: Cleaning Tool Review Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Cleaning Tool Review Tutorials
+- ✓ Article word count OK: Common Mistakes in Cleaning Tool Review Tutorials
+- ✓ Article word count OK: Cleaning Tool Review Tutorials for Beginners
+- ✓ Article word count OK: Advanced Cleaning Tool Review Tutorials Techniques
+- ✓ Ad configuration validated
